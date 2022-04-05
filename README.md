@@ -1,3 +1,3 @@
 # Chair-site
 
-Chair site with designs
+Page web avec la formaton Udemy
